@@ -1,6 +1,6 @@
 # Sistema de Loja Virtual em Python
 
-Este é um sistema simples de loja virtual no terminal que demonstra o uso de tratamento de erros em Python com foco nas estruturas try/except/else/finally.
+Este é um sistema simples de loja virtual no terminal que demonstra o uso de tratamento de erros em Python com foco nas estruturas try/except/else.
 
 ## Funcionalidades
 
@@ -8,7 +8,7 @@ Este é um sistema simples de loja virtual no terminal que demonstra o uso de tr
 - Adicionar produtos ao carrinho (opção 2)
 - Visualizar carrinho e total da compra (opção 3)
 - Finalizar compra/pagamento (opção 4)
-- Ver histórico de compras realizadas (opção 5) - **Funcionalidade Extra**
+- Ver histórico de compras realizadas (opção 5)
 - Sair(opção 6)
 
 ## Exceções Tratadas
